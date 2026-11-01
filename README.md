@@ -35,3 +35,27 @@ Open a terminal in the week03 directory.
 ### Testing
 
 Test each program with different valid inputs and verify that the results match the expected calculations.
+
+
+
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Practical Title
+Write Your First Java Programme
+
+### Objective
+To create a Java source file, understand basic program output, and prepare the programme for submission through GitHub.
+
+### Programme
+- FirstProgram.java
+
+### Description
+The programme displays:
+- Course code and title.
+- Programme of study.
+- Three reasons programming is important.
+- One personal learning goal for COS 201.
+
+### Learning Outcome
+I practised writing a basic Java programme and displaying information using output statements.
+
